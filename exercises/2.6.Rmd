@@ -6,4 +6,4 @@ output: html_document
 
 __Describe the differences between a parametric and a non-parametric statistical learning approach. What are the advantages of a parametric approach to regression or classification (as opposed to a nonparametric approach)? What are its disadvantages?__
 
-<!-- enter your solution here -->
+Parametric models are both good and bad dependent on the situation.  While they allow for predictions to be made, they are also wrong because these predictions are based on assumptions and result in approximations, inducing error. Non-parametric models speak for themselves with no assumptions made.  However, they cannot predict the way a parametric model can.

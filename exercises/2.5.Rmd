@@ -6,4 +6,4 @@ output: html_document
 
 __What are the advantages and disadvantages of a very flexible (versus a less flexible) approach for regression or classification? Under what circumstances might a more flexible approach be preferred to a less flexible approach? When might a less flexible approach be preferred?__
 
-<!-- enter your solution here -->
+We want to have a model that is more generalizable if we're talking about prediction for new data.  If you have a very flexible model, you would be able to see trends in the data set at hand, but it won't be able to predict new or future data very well (i.e., the model perfectly describes patients 1-100, but patient 101 is unknown because the model was built for patients 1-100.)  A less flexible model will be better at prediction because it's only looking at the strongest trends.
