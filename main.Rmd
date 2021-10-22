@@ -31,25 +31,25 @@ knitr::opts_chunk$set(echo = TRUE,
 ```{r q_2.7,child="exercises/2.7.Rmd",  eval=!FALSE}
 ```
 
-```{r q_2.8,child="exercises/2.8.Rmd",  eval=FALSE}
+```{r q_2.8,child="exercises/2.8.Rmd",  eval=!FALSE}
 ```
 
-```{r q_3.8,child="exercises/3.8.Rmd",  eval=FALSE}
+```{r q_3.8,child="exercises/3.8.Rmd",  eval=!FALSE}
 ```
 
-```{r q_3.9,child="exercises/3.9.Rmd",  eval=FALSE}
+```{r q_3.9,child="exercises/3.9.Rmd",  eval=!FALSE}
 ```
 
-```{r q_3.11,child="exercises/3.11.Rmd",  eval=FALSE}
+```{r q_3.11,child="exercises/3.11.Rmd",  eval=!FALSE}
 ```
 
-```{r q_3.12,child="exercises/3.12.Rmd",  eval=FALSE}
+```{r q_3.12,child="exercises/3.12.Rmd",  eval=!FALSE}
 ```
 
-```{r q_4.9,child="exercises/4.9.Rmd",  eval=FALSE}
+```{r q_4.9,child="exercises/4.9.Rmd",  eval=!FALSE}
 ```
 
-```{r q_4.11,child="exercises/4.11.Rmd",  eval=FALSE}
+```{r q_4.11,child="exercises/4.11.Rmd",  eval=!FALSE}
 ```
 
 ```{r q_4.12,child="exercises/4.12.Rmd",  eval=!FALSE}
